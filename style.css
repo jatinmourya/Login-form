@@ -161,6 +161,7 @@ body .box {
 }
 
 .inputsection .rmbrme input[type="checkbox"] {
+  background-color:transparent;
   margin-right: 5px;
 }
 
