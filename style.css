@@ -28,7 +28,7 @@ body {
 
 body .box {
   border-radius: 3px;
-  background-color: #d3d3d3;
+  background-color: #f1f1f1;
   padding: 30px 40px;
   height: 600px;
   width: 370px;
@@ -104,7 +104,7 @@ body .box {
   width: 100%;
   border: none;
   outline: none;
-  background-color: #bebebe;
+  background-color: #f0f1fa;
 }
 
 .inputsection input[type="text"]::-webkit-input-placeholder,
