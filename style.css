@@ -104,7 +104,7 @@ body .box {
   width: 100%;
   border: none;
   outline: none;
-  background-color: #f0f1fa;
+  background-color: #fof1fa;
 }
 
 .inputsection input[type="text"]::-webkit-input-placeholder,
